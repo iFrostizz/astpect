@@ -23,6 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@tauri-apps/api": "^1.2.0"
+		"@tauri-apps/api": "^1.2.0",
+		"svelte-language-server": "^0.15.3"
 	}
 }
